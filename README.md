@@ -1,5 +1,4 @@
-# Complex Word Identification Shared Task 2018 - Camb system
-
+# CWI Shared Task 2018 - Camb system
 
 
 
